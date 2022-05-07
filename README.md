@@ -32,7 +32,7 @@
   <a href = "mailto:marcusmatias06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/marcus-matias-a5a3751aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![GitHub Snake Light](https://github.com/MarcusMatias/MarcusMatias/blob/output/github-snake.svg)
  
 </div>
 
